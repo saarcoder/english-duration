@@ -12,5 +12,9 @@
   },
   "keywords": [],
   "author": "Alex Kimoto",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saarcoder/english-duration/issues"
+  },
+  "homepage": "https://github.com/saarcoder/english-duration"
 }
